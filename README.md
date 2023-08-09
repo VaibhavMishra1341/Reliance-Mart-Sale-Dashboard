@@ -17,7 +17,7 @@
 ## Quick Preview 👀
 
 ![Result1.png](./Result1.png)
--  Gujarat's Quarter-1 data.
+- Gujarat's Quarter-1 data.
 ![Result2.png](./Result2.png)
 - West Bengal's Quarter-3 sales.
 
