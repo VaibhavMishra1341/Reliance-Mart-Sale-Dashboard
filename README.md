@@ -18,7 +18,7 @@
 
 - Gujarat's Quarter-1 data.
 
-![Result1.png](./Result1.png)
+![Result1](https://github.com/VaibhavMishra1341/Reliance-Mart-Sale-Dashboard/assets/39896268/39b004bc-591e-47f3-9d4b-21561d5ba5e2)
 
 - West Bengal's Quarter-3 sales.
 
