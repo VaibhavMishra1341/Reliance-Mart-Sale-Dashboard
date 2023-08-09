@@ -27,7 +27,7 @@
 
 ## Collaborate ✨
 
-Connect with us on LinkedIn: [Vaibhav Mishra](https://www.linkedin.com/in/vaibhav-mishra-vm/).
+Connect with me on LinkedIn: [Vaibhav Mishra](https://www.linkedin.com/in/vaibhav-mishra-vm/).
 
 Contribute ideas, enhancements, or fixes via pull requests or issues in our GitHub repository. Let's illuminate together!
 
